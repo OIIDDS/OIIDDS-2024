@@ -1,9 +1,15 @@
 # OIIDDS-2024
 ## 2024 Workshop on Ontologies for Infectious and Immune-Mediated Disease Data Science
+### Theme: Ontologies, Standards, and Data in Infectious and Immune-Mediated Disease
+### Date: July 26 2024, Free Virtual Event (2-3 hours), Part of the [JOWO 2024 workshops](https://www.utwente.nl/en/eemcs/fois2024/workshops/), [ICBO 2024 conference](https://icbo-conference.github.io/icbo2024/)
+
+## Call for Abstract Submissions (Deadline: June 26 2024)
+### All accepted abstract will be promoted to submit as full paper to JBMS OIIDDS Special Track
+
 
 Background: Infectious and immune-mediated disease (IID) research covers various disparate areas including autoimmune diseases, human inborn errors in immunity, infectious diseases and host-pathogen interactions, immunological studies, epidemiological studies, surveillance, clinical trials, and reagent and diagnostic method development. Rare immunological diseases, such as severe combined immunological deficiencies, remain a significant concern and focus for research. Ontologies and Knowledge Graphs (KG) serve as ideal tools for integrating such data to support innovations and decision-making. Over the last 15 years, the OBO Foundry community has developed multiple immunology and infectious disease ontologies [1][2][3][4]. There is, however, a growing need for better coordination and integration strategies across these and other efforts, as well as improved strategies for identifying gaps in existing domain coverage [5]. 
 
-## Objectives: 
+Objectives: 
 
 Evaluate the landscape of existing ontologies or KGs to support IID research and data science. 
 
@@ -13,12 +19,7 @@ Identify gaps, challenges, and strategies for improving integration in IID resea
 
 Provide education for and demonstrations of proper interface with ontology communities and existing ontologies (term reuse, requests, etc.)
 
-Strategize solutions to blockers for ontology reuse, including but not limited to: 
-
-          Lack of awareness of existing ontologies
-          Modification of ontology terms without considering user impact
-          Excessive, regular, delayed responses to term request
-          Academic incentives not aligned with user incentives
+Strategize solutions to blockers for ontology reuse, including but not limited to: Lack of awareness of existing ontologies; Modification of ontology terms without considering user impact; Excessive, regular, delayed responses to term request; Academic incentives not aligned with user incentives
 
 We welcome the submission of published and unpublished work focusing on ontologies, knowledge graphs, and their applications related to the following topics: 
 
@@ -48,11 +49,11 @@ Manuscripts should be formatted using the following ICBO 2024 template.
 
 Asiyah Yu Lin 
 
-Alexander Diehl (addiehl@buffalo.edu)
+Alexander Diehl
 
-John Beverley (johnbeve@buffalo.edu)
+John Beverley
 
-Lindsay G. Cowell (Lindsay.Cowell@utsouthwestern.edu)
+Lindsay G. Cowell
 
 ## Open Science and FAIR Principle
 
