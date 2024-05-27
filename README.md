@@ -4,22 +4,16 @@
 ### Date: July 26 2024, Free Virtual Event (2-3 hours), Part of the [JOWO 2024 workshops](https://www.utwente.nl/en/eemcs/fois2024/workshops/), [ICBO 2024 conference](https://icbo-conference.github.io/icbo2024/)
 
 ## Call for Abstract Submissions (Deadline: June 26 2024)
-### All accepted abstract will be promoted to submit as full paper to JBMS OIIDDS Special Track
+### All accepted abstract will be promoted to submit as full paper to [JBMS OIIDDS Special Track](https://www.biomedcentral.com/collections/OIIMDDS)
 
+Infectious and immune-mediated disease (IID) research covers various disparate areas including autoimmune diseases, human inborn errors in immunity, infectious diseases and host-pathogen interactions, immunological studies, epidemiological studies, surveillance, clinical trials, and reagent and diagnostic method development. Rare immunological diseases, such as severe combined immunological deficiencies, remain a significant concern and focus for research. Ontologies and Knowledge Graphs (KG) serve as ideal tools for integrating such data to support innovations and decision-making. Over the last 15 years, the OBO Foundry community has developed multiple immunology and infectious disease ontologies [1][2][3][4]. There is, however, a growing need for better coordination and integration strategies across these and other efforts, as well as improved strategies for identifying gaps in existing domain coverage [5]. 
 
-Background: Infectious and immune-mediated disease (IID) research covers various disparate areas including autoimmune diseases, human inborn errors in immunity, infectious diseases and host-pathogen interactions, immunological studies, epidemiological studies, surveillance, clinical trials, and reagent and diagnostic method development. Rare immunological diseases, such as severe combined immunological deficiencies, remain a significant concern and focus for research. Ontologies and Knowledge Graphs (KG) serve as ideal tools for integrating such data to support innovations and decision-making. Over the last 15 years, the OBO Foundry community has developed multiple immunology and infectious disease ontologies [1][2][3][4]. There is, however, a growing need for better coordination and integration strategies across these and other efforts, as well as improved strategies for identifying gaps in existing domain coverage [5]. 
-
-Objectives: 
-
-Evaluate the landscape of existing ontologies or KGs to support IID research and data science. 
-
-Demonstrate the successful use of existing ontologies or KGs in facilitating data integration in IID research.
-
-Identify gaps, challenges, and strategies for improving integration in IID research. 
-
-Provide education for and demonstrations of proper interface with ontology communities and existing ontologies (term reuse, requests, etc.)
-
-Strategize solutions to blockers for ontology reuse, including but not limited to: Lack of awareness of existing ontologies; Modification of ontology terms without considering user impact; Excessive, regular, delayed responses to term request; Academic incentives not aligned with user incentives
+The OIIDDS workshop aims to: 
+<li>Evaluate the landscape of existing ontologies or KGs to support IID research and data science. 
+<li>Demonstrate the successful use of existing ontologies or KGs in facilitating data integration in IID research.
+<li>Identify gaps, challenges, and strategies for improving integration in IID research. 
+<li>Provide education for and demonstrations of proper interface with ontology communities and existing ontologies (term reuse, requests, etc.)
+<li>Strategize solutions to blockers for ontology reuse, including but not limited to: Lack of awareness of existing ontologies; Modification of ontology terms without considering user impact; Excessive, regular, delayed responses to term request; Academic incentives not aligned with user incentives
 
 We welcome the submission of published and unpublished work focusing on ontologies, knowledge graphs, and their applications related to the following topics: 
 
@@ -47,18 +41,23 @@ Manuscripts should be formatted using the following ICBO 2024 template.
 
 ## Organizing Committee
 
-Asiyah Yu Lin 
+Asiyah Yu Lin (Axle Research and Technology)
 
-Alexander Diehl
+Alexander Diehl (University at Buffalo)
 
-John Beverley
+John Beverley (University at Buffalo)
 
-Lindsay G. Cowell
+Lindsay G. Cowell (UT Southwestern Medical Center)
 
 ## Open Science and FAIR Principle
 
 Open Science and the FAIR principles are essential for advancing scientific research and promoting knowledge sharing.Our workshop embraces the practice of Open Science and FAIR principles. All material including submission, slides, and videos will be made publicly available after the workshop. We encourage authors to obtain DOIs for the submission and related material via a generalist repository (such as Zenodo, OSF, and more).
 
+## Recording and Publishing Disclaimer
+By participating in this workshop, attendees acknowledge and agree that the workshop will be recorded and that their participation, including any comments, questions, and visual/audio presence, may be captured during this recording. The recorded content may be edited, repurposed, or otherwise modified by the workshop organizers, who reserve the right to publish the content on platforms, including but not limited to YouTube. By participating, attendees grant the workshop organizers the irrevocable right to use the recorded content for promotional, educational, and other appropriate purposes without further notice or compensation. By continuing with participation, attendees confirm their understanding and agreement to these terms.
+
+## Conference Videos
+Playlists of the current and previous VDOS conference recordings will be made available on YouTube Biomedical Ontology World C.
 
 ## References
 
