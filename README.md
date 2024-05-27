@@ -9,11 +9,11 @@
 Infectious and immune-mediated disease (IID) research covers various disparate areas including autoimmune diseases, human inborn errors in immunity, infectious diseases and host-pathogen interactions, immunological studies, epidemiological studies, surveillance, clinical trials, and reagent and diagnostic method development. Rare immunological diseases, such as severe combined immunological deficiencies, remain a significant concern and focus for research. Ontologies and Knowledge Graphs (KG) serve as ideal tools for integrating such data to support innovations and decision-making. Over the last 15 years, the OBO Foundry community has developed multiple immunology and infectious disease ontologies [1][2][3][4]. There is, however, a growing need for better coordination and integration strategies across these and other efforts, as well as improved strategies for identifying gaps in existing domain coverage [5]. 
 
 The OIIDDS workshop aims to: 
-<li>Evaluate the landscape of existing ontologies or KGs to support IID research and data science. 
-<li>Demonstrate the successful use of existing ontologies or KGs in facilitating data integration in IID research.
-<li>Identify gaps, challenges, and strategies for improving integration in IID research. 
-<li>Provide education for and demonstrations of proper interface with ontology communities and existing ontologies (term reuse, requests, etc.)
-<li>Strategize solutions to blockers for ontology reuse, including but not limited to: Lack of awareness of existing ontologies; Modification of ontology terms without considering user impact; Excessive, regular, delayed responses to term request; Academic incentives not aligned with user incentives
+- Evaluate the landscape of existing ontologies or KGs to support IID research and data science. 
+- Demonstrate the successful use of existing ontologies or KGs in facilitating data integration in IID research.
+- Identify gaps, challenges, and strategies for improving integration in IID research. 
+- Provide education for and demonstrations of proper interface with ontology communities and existing ontologies (term reuse, requests, etc.)
+- Strategize solutions to blockers for ontology reuse, including but not limited to: Lack of awareness of existing ontologies; Modification of ontology terms without considering user impact; Excessive, regular, delayed responses to term request; Academic incentives not aligned with user incentives
 
 We welcome the submission of published and unpublished work focusing on ontologies, knowledge graphs, and their applications related to the following topics: 
 
