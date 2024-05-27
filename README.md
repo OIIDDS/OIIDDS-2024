@@ -37,7 +37,9 @@ Extended abstracts can be 1-2 pages; short-length manuscripts for workshops are 
 
 Manuscripts must be submitted as PDFs via [this link](https://cmt3.research.microsoft.com/ICBO2024/).
 
-Manuscripts should be formatted using the following ICBO 2024 template.  
+Manuscripts should be formatted using the [following ICBO 2024 template](https://icbo-conference.github.io/icbo2024/call/).  
+
+Please reach out to asiyah.lin**AT**axleinfo.com for questions regarding submission. 
 
 ## Organizing Committee
 
@@ -57,7 +59,7 @@ Open Science and the FAIR principles are essential for advancing scientific rese
 By participating in this workshop, attendees acknowledge and agree that the workshop will be recorded and that their participation, including any comments, questions, and visual/audio presence, may be captured during this recording. The recorded content may be edited, repurposed, or otherwise modified by the workshop organizers, who reserve the right to publish the content on platforms, including but not limited to YouTube. By participating, attendees grant the workshop organizers the irrevocable right to use the recorded content for promotional, educational, and other appropriate purposes without further notice or compensation. By continuing with participation, attendees confirm their understanding and agreement to these terms.
 
 ## Conference Videos
-Playlists of the current and previous VDOS conference recordings will be made available on YouTube Biomedical Ontology World C.
+Playlists of the current and previous VDOS conference recordings will be made available on [YouTube Biomedical Ontology World Channel](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw).
 
 ## References
 
