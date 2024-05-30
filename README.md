@@ -33,7 +33,7 @@ We welcome the submission of published and unpublished work focusing on ontologi
 
 ## Submission Logistics
 
-Extended abstracts can be 1-2 pages; short-length manuscripts for workshops are generally 4-6 pages.
+Extended abstracts can be 1-2 pages excluding the references. Acception notification will be made 5 days after submission. 
 
 Manuscripts must be submitted as PDFs via [this link](https://cmt3.research.microsoft.com/ICBO2024/).
 
