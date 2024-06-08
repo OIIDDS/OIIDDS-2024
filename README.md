@@ -62,6 +62,9 @@ By participating in this workshop, attendees acknowledge and agree that the work
 ## Conference Videos
 Playlists of the current and previous VDOS conference recordings will be made available on [YouTube Biomedical Ontology World Channel](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw).
 
+## Previous workshop:
+(OIIDDS 2023 (inagural))[https://delaneycdmcnulty.wixsite.com/oiids-workshop]
+
 ## References
 
 1. Diehl AD, Lee JA, Scheuermann RH, Blake JA. Ontology development for biological systems: immunology. Bioinformatics. 2007 Apr 1;23(7):913-5. doi: 10.1093/bioinformatics/btm029. PMID: 17267433.
