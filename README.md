@@ -1,7 +1,8 @@
 # OIIDDS-2024
 ## 2024 Workshop on Ontologies for Infectious and Immune-Mediated Disease Data Science
 ### Theme: Ontologies, Standards, and Data in Infectious and Immune-Mediated Disease
-### Date: July 26 2024, Free Virtual Event (2-3 hours), Part of the [JOWO 2024 workshops](https://www.utwente.nl/en/eemcs/fois2024/workshops/), [ICBO 2024 conference](https://icbo-conference.github.io/icbo2024/)
+### Date: July 26 2024, Virtual Open Event (2-3 hours), Part of the [JOWO 2024 workshops](https://www.utwente.nl/en/eemcs/fois2024/workshops/), [ICBO 2024 conference](https://icbo-conference.github.io/icbo2024/)
+### [Register for the OIIDDS-2024](https://forms.gle/L4ZMF9kp7wzdVqGE8) 
 
 ## Call for Abstract Submissions (Deadline: June 26 2024)
 ### All accepted abstract will be promoted to submit as full paper to [JBMS OIIDDS Special Track](https://www.biomedcentral.com/collections/OIIMDDS)
